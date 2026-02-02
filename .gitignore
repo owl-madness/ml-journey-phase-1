@@ -12,3 +12,9 @@ __pycache__/
 
 # fer2013.csv and other csv
 *.csv
+
+# macOS
+.DS_Store
+
+# python version managers (pyenv, asdf)
+.python-version
