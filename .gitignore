@@ -9,3 +9,6 @@ __pycache__/
 
 # archives
 *.zip
+
+# fer2013.csv and other csv
+*.csv
